@@ -1,14 +1,8 @@
 # daapchain
 daapchain.com
 A White Paper for DAAP and DAAPCHAIN
-
-daap://domain_auth_archive_protocol
-
-╔╦╗╔═╗╔═╗╔═╗╔═╗╦ ╦╔═╗╦╔╗╔╔
- ║║╠═╣╠═╣╠═╝║  ╠═╣╠═╣║║║║║
-═╩╝╩ ╩╩ ╩╩  ╚═╝╩ ╩╩ ╩╩╝╚╝╝
 A simple, secure, transparent blockchain algorithm.
-http://www.daapchain.com
+daap://domain_auth_archive_protocol
 
 
 AUDIENCE
