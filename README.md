@@ -34,7 +34,7 @@ PROOFS
 		S = 1.00314195 <!-- scale at which daap grow. -->
 		D = A(ah) <!-- daap is a collection of A(authenticated handshakes). -->
 		...
-		A = S(D) <!-- number of shakes to make a daap increased. -->
+		A = S(A) <!-- number of shakes to make a daap increased. -->
 		D = A(ah) <!-- daap is a collection of A(shakes) increased. -->
 		...
 		DC = D[ADDBLOCK|MODBLOCK] <!-- daapchain is a collection of daap creation and daap modification events. -->
