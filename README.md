@@ -13,7 +13,7 @@ INTRODUCTION
 
 PREMISE
 	Why DAAP?
-	DAAP data is important because the cellular interior of DAAP data can be verifed by a globally recognized Certificate Authority. The same authority that validates the billions of secure internet requests happening every second. This makes the data immutably resistant to tamper or duplication. These datas can be collected, compiled and crafted into a secure, fully verifiable tokens.
+	DAAP data is important because the cellular interior of DAAP data can be verifed by a globally recognized Certificate Authority. The same authority that validates the billions of secure internet requests happening every second. This makes the data immutably resistant to tamper or duplication. These datas can be collected, compiled and crafted into secure, fully verifiable tokens.
 
 We already have Bitcoin and others, why do we need yet another currency?
 	We already have the wonderful United States of America, why do we need Switzerland? Any algorhitm that can fit seemslessly into the global blockchain ecosystem only serves to make the entire ecosystem as a whole that much stronger. Additionaly, when currencies abate, the diversity of multiple currencys allow for a greater percentage of survival until currencies rise again.
