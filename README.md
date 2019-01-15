@@ -9,7 +9,7 @@ AUDIENCE
 	This white paper is intended for anyone interested in digital currency and the engines that drive them. If you do not know or care about what digital currency is, this white paper may not be for you. If you mine, own, facilitate or are simply interested in digital currency, this white paper is for you!
 
 INTRODUCTION
-	Since the invention of AARPANET in 1983, there has been an explosion of innovation in internet technology. These innovations could not have been fully realized before AARPANET, the World Wide Web or the Internet itself was created. Without doubt, one of these often-underappreciated innovations is the SSL authentication handshake process that occurs with every secure internet communication request. These secure handshakes occur billions of times per second then afterwards, this data is just left on the floor. We contend that the remnant data from these secure connections can be potentially valuable if used effectively. In this document, we will introduce the block chain process called DAAP. We will show how the DAAP algorithm can be wielded to collect, compile and validate incredibly difficult to duplicate encrypted tokens. We will also show how applications provided by the world's leading block chain ecosystems can fit seamlessly around the DAPP model. Lastly, we will contextually analyze the protocol itself; including the ledger, wallet and percentage applications. Welcome.
+	Since the invention of AARPANET in 1983, there has been an explosion of innovation in internet technology. These innovations could not have been fully realized before AARPANET, the World Wide Web or the Internet itself was created. Without doubt, one of these often-underappreciated innovations is the SSL authentication handshake process that occurs with every secure internet communication request. These secure handshakes occur billions of times per second then afterwards, this data is just left on the floor. We contend that the remnant data from these secure connections can be potentially valuable if used effectively. In this document, we will introduce the block chain process called DAAP. We will show how the DAAP algorithm can be wielded to collect, compile and validate incredibly difficult to duplicate encrypted tokens. We will also show how applications provided by the world's leading block chain ecosystems can fit seamlessly around the DAAP model. Lastly, we will contextually analyze the protocol itself; including the ledger, wallet and percentage applications. Welcome.
 
 PREMISE
 	Why DAAP?
@@ -23,7 +23,7 @@ PROOFS
 	DEFINITIONS
 		SHAKE - Secure handshake authentication keys, encrypted.
 		DAAP - A daap is a collection of shakes which persist in the daapchain block chain.
-		DAPPCHAIN - A daapchain is a blockchain for persisting ADDBLOCK and MODBLOCK transaction messages. 
+		DAAPCHAIN - A daapchain is a blockchain for persisting ADDBLOCK and MODBLOCK transaction messages. 
 		DAAPWALLET - A daapwallet is a local daapchain of ADDBLOCK and MODBLOCK transaction message.	
 
 	ALGORITHM
